@@ -1,0 +1,30 @@
+body {
+	margin: 0;
+	font:normal 75% Arial, Helvetica, sans-serif;
+}
+
+canvas {
+	display: block;
+	vertical-align: bottom;
+}
+#particles-js {
+	display: none;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	/*background-color: #000;*/
+	/*background: linear-gradient(to right, #355c7d, #6c5b7b, #c06c84);*/
+	background: linear-gradient(to right, #da4453, #89216b);
+	/*background-image: url("");*/
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 50% 50%;
+}
+.nusta {
+	h1 {
+		background-color: #fff;
+		p {
+			color: yellow; 
+		}
+	}
+}
